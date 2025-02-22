@@ -1,0 +1,2 @@
+x=kartik
+print(x)
